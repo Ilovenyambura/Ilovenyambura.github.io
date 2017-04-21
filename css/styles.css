@@ -4,6 +4,8 @@
 }
 h1{
   font-weight: bold;
+
+
 }
 .bold{
   font-style: italic;
@@ -11,4 +13,21 @@ h1{
 h2{
   font-family: sans-serif;
   color: darkblue;
+}
+.drop{
+  padding:8px;
+  border: 2px;
+  margin: 10px;
+}
+.intro{
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 22px;
+}
+.clean{
+  font-family: serif;
+  color: red;
+}
+p{
+font-size: 18px; 
 }
