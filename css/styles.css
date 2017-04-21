@@ -1,6 +1,14 @@
 .img{
-  float: left;
+  float:right;
+
 }
 h1{
   font-weight: bold;
+}
+.bold{
+  font-style: italic;
+}
+h2{
+  font-family: sans-serif;
+  color: darkblue;
 }
